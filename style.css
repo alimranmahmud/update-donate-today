@@ -1,0 +1,132 @@
+.background-image {
+    height: 600px;
+    background-color: aliceblue;
+}
+
+.center {
+    padding-top: 200px;
+    text-align: center;
+    color: red;
+
+}
+
+.center-two {
+    text-align: center;
+    color: red;
+}
+
+.tk {
+    display: flex;
+    margin-left: 400px;
+}
+
+.taka {
+    margin: 20px;
+    height: 120px;
+    width: 120px;
+    background-color: antiquewhite;
+
+
+}
+
+h2 {
+    padding-top: 25px;
+    padding-left: 26px;
+}
+
+#two-hundred {
+    background-color: rgba(165, 42, 42, 0.181);
+    border: 2px solid red;
+
+}
+
+#border {
+    margin-left: 250px;
+    margin-right: 250px;
+    border-bottom: 2px solid black;
+}
+
+.other {
+    padding-bottom: 20px;
+}
+
+.center-two {
+    text-align: center;
+}
+
+.icon-flex {
+    display: flex;
+    margin-left: 180px;
+}
+
+.icon {
+    padding: 50px 20px 30px 10px;
+    margin: 10px;
+    background-color: rgb(12, 215, 215);
+    width: 350px;
+    height: 200px;
+}
+
+.flex-donat {
+    display: flex;
+    margin-left: 250px;
+    margin-right: 200px;
+
+
+}
+
+.donate {
+    height: 400px;
+    width: 400px;
+    margin-right: 70px;
+
+}
+
+.donate img {
+    width: 150%;
+}
+
+.donate-c {
+    height: 400px;
+    width: 400px;
+    margin-right: 200px;
+
+}
+
+.donate-c img {
+    width: 150%;
+}
+
+.space {
+    margin-bottom: 50px;
+}
+
+.center-four {
+    text-align: center;
+}
+
+.email {
+
+    margin-left: 450px;
+    background-color: white;
+    height: 25px;
+    width: 500px;
+    padding: 20px 0 0 20px;
+    border: 80px solid antiquewhite;
+
+}
+
+.center-five {
+    height: 170px;
+    background-color: black;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.withe {
+    color: white;
+}
+
+.red {
+    color: brown;
+}
